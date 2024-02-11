@@ -14,3 +14,8 @@ Clustering using different techniques, parameters, preprocessing methods and clu
 3. Davies Bouldins - The Davies-Bouldin Index is a validation metric that is used to evaluate clustering models. It is calculated as the average similarity measure of each cluster with the cluster most similar to it. In this context, similarity is defined as the ratio between inter-cluster and intra-cluster distances.
 
     ![image](https://github.com/nitleenk/Clustering/assets/127779292/d8c49cac-3814-4e95-b5d4-cb07aa5f5632)
+
+## Techniques used:
+1. K-means Clustering - K-Means clustering is an unsupervised learning algorithm. There is no labeled data for this clustering, unlike in supervised learning. K-Means performs the division of objects into clusters that share similarities and are dissimilar to the objects belonging to another cluster.
+2. Hierarchical Clustering - Hierarchical clustering is an unsupervised learning method for clustering data points. The algorithm builds clusters by measuring the dissimilarities between data. Unsupervised learning means that a model does not have to be trained, and we do not need a "target" variable.
+3. K-means Shift Clustering - Mean-shift clustering is a non-parametric, density-based clustering algorithm that can be used to identify clusters in a dataset. It is particularly useful for datasets where the clusters have arbitrary shapes and are not well-separated by linear boundaries.

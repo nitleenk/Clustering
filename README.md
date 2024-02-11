@@ -1,8 +1,8 @@
 # Clustering
-Clustering is the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects on the basis of similarity and dissimilarity between them. 
+Clustering is the task of dividing the population or data points into several groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is a collection of objects based on similarity and dissimilarity between them. 
 The data points in the graph below clustered together can be classified into one single group. We can distinguish the clusters, and we can identify that there are 3 clusters in the below picture.
 
-    ![image](https://github.com/nitleenk/Clustering/assets/127779292/f527cef8-93cd-42d2-83eb-6c445be5b8ac)
+    ![image](https://github.com/nitleenk/Clustering/assets/127779292/1b7fa5a4-3162-4f63-80ee-25c6d35a45bb)
 
 ## Parameters used:
 

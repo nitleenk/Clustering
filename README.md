@@ -8,7 +8,7 @@ Clustering using different techniques, parameters, preprocessing methods and clu
     ![image](https://github.com/nitleenk/Clustering/assets/127779292/c21f8d59-e30f-431f-af77-7a88b6b1e4ea)
 
 
-2. Calinski Harabasz - Calinski–Harabasz index (CHI), also known as the Variance Ratio Criterion (VRC), is a metric for evaluating clustering algorithms. It is an internal evaluation metric, where the assessment of the clustering quality is based solely on the dataset and the clustering results, and not on external, ground-truth labels.
+2. Calinski Harabasz - Calinski–Harabasz index (CHI), also known as the Variance Ratio Criterion (VRC), is a metric for evaluating clustering algorithms. It is an internal evaluation metric, where the assessment of the clustering quality is based solely on the dataset and the clustering results, and not on external, ground-truth labels. For instance,
 
     ![image](https://github.com/nitleenk/Clustering/assets/127779292/7ad083fa-838b-4013-b455-5eb5c863ec43)
 
